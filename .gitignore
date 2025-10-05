@@ -1,0 +1,18 @@
+# API Credentials (IMPORTANT!)
+config.py
+credentials.txt
+.env
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+*.txt
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
